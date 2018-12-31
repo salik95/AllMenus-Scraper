@@ -1,8 +1,3 @@
-import csv
-from selenium import webdriver
-import time
-from selenium.webdriver.support.ui import Select, WebDriverWait
-from selenium.webdriver.common.keys import Keys
 import json
 
 data = []
